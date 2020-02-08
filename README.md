@@ -17,6 +17,9 @@ https://github.com/doragogonet/doragogo.git
 
 Contact us [#HELP](http://www.filecoin.jp/?page_id=617)
 
+## RPC-API
+[wiki](https://github.com/doragogonet/doragogo/wiki)
+
 ## Development
 
 Install dependencies:
