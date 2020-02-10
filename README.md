@@ -34,7 +34,7 @@ doragogo  --datadir ./n0
 Add a private key to the static-nodes.json and owner.node file Place owner.node file in datadir
 
 
-・ Start then doaGoGo Node:
+*  Start then doaGoGo Node:
 
 ```bash
 doragogo  --datadir ./n0 --syncmode "full"  --rpcport "8545" --rpc --rpcaddr "0.0.0.0"  --rpcapi "admin,do.shh" --shh --ws --wsport 8546 --wsaddr "0.0.0.0"  --rpccorsdomain "*" --allow-insecure-unlock --nodiscover --port 40400  --miner.etherbase "hode-address" --mine console
