@@ -31,7 +31,7 @@ Initialize:
 doragogo  --datadir ./n0
 ```
   * Add a private key to the owner.node file  
-  * static-nodes.json and owner.node file Place owner.node file in datadir
+  * copy the static-nodes.json and owner.node file  to datadir
 
 
 Start then doaGoGo Node:
